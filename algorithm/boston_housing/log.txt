@@ -1,0 +1,4 @@
+v4
+reduce the nodes 
+v5
+reduce the iteration in generation from 2000 -> 1500

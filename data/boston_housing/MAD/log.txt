@@ -1,0 +1,4 @@
+v1 version
+get tbe mad on unnormalized data
+and denormalize the data after that divided by mad,
+The implementation details refer to plainCF3

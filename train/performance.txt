@@ -1,0 +1,5 @@
+adult Best Val. F1: 0.6698, Best Val. Accuarcy: 0.8512
+
+MNIST: accuracy 0.991
+
+GMSC: accuracy 0.7704

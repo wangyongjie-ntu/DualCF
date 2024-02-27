@@ -1,0 +1,4 @@
+validation acc:
+0.873
+test acc:
+0.858
